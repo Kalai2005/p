@@ -1,4 +1,8 @@
 *{
+    margin: 0px;
+}
+ul{
+    margin-left: 55%;*{
     margin: 0PX;
 }
 nav{
@@ -11,8 +15,6 @@ nav{
 li,ul,h1{
     display: inline;
 }
-ul{
-    margin-left: 55%;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-size: large;
 }
