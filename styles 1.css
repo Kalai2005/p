@@ -41,12 +41,15 @@ li{
     
 
 }
+
 input{
     padding: 7px;
     width: 800px;
     cursor: pointer;
     
 }
+
+
 .color{
     
     background: linear-gradient(#7f60ee,#8bffff,#feaffe,#ef80b8);
@@ -77,10 +80,13 @@ input{
         font-family: 'Times New Roman', Times, serif;
         cursor: pointer;
         border-radius: 20px;
+        
     }
     .glass:hover{
-        
-        color:#8bffff;
+        transform: scale(1.1);
+    transition: 1s;
+        color:#00ffff;
+        transition: 5sec;
     }
     .ass{
         margin: 10px;
@@ -99,7 +105,9 @@ input{
 cursor: pointer;
     }
 .dropes:hover{
-    color: #8bffff;
+    transform: scale(1.1);
+    transition: 1s;
+    color: #00ffff;
     
 }
     .phones{
@@ -130,7 +138,9 @@ cursor: pointer;
         padding-top: 10px;
     }
     .ace:hover{
-        color: #8bffff;
+        transform: scale(1.1);
+        transition: 1s;
+        color: #00ffff;
     }
 
 .second{
@@ -160,7 +170,9 @@ margin-top: 17px;
 
 
 .second:hover{
-      color: #8bffff;
+    transform: scale(1.1);
+    transition: 1s;
+      color: #00ffff;
 }
 .us{
     text-align: center;
