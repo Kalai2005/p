@@ -26,6 +26,7 @@ li:hover{
 }
 li{
     cursor: pointer;
+    justify-content: space-between;
 }
 .name{
     
